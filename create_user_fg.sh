@@ -1,5 +1,5 @@
 !#/bin/bash
-sudo apt-get -y install git-core 
+apt-get -y install git-core 
 mkdir /home/git
 groupadd git
 adduser user1 # creation de l'utilisateur user1
