@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 apt-get -y install git-core 
 mkdir /home/git
 groupadd git
