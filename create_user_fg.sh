@@ -1,5 +1,5 @@
 #!/bin/bash
-apt-get -y install git-core man sudo
+apt-get -y install git-core man vim sudo
 mkdir /home/git
 groupadd git
 adduser user1 # creation de l'utilisateur user1
